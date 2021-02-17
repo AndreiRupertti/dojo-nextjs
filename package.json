@@ -1,0 +1,16 @@
+{
+  "name": "my-app",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "start:dev": "next dev",
+    "build:prod": "next build",
+    "start:prod": "next start"
+  },
+  "dependencies": {
+    "axios": "^0.21.1",
+    "next": "10.0.7",
+    "react": "17.0.1",
+    "react-dom": "17.0.1"
+  }
+}
